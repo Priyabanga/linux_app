@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "135074575361",
+    "firebase_url": "https://linuxcommands-89b48.firebaseio.com",
+    "project_id": "linuxcommands-89b48",
+    "storage_bucket": "linuxcommands-89b48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135074575361:android:c8d1f756e727ac8e9e3c00",
+        "android_client_info": {
+          "package_name": "com.priya03.linux_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135074575361-kgv3en589n1g3qm9n4lqqve995bkmnmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqSvt1_UV0aKYZCziDvvVXckSH_HFYEzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135074575361-kgv3en589n1g3qm9n4lqqve995bkmnmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
